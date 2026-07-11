@@ -1,0 +1,71 @@
+body {
+
+    margin: 0;
+
+    background: #E8E7E3;
+
+    color: #4E4E53;
+
+    font-family: "IBM Plex Sans", sans-serif;
+
+}
+
+header {
+
+    text-align: center;
+
+    padding: 80px;
+
+}
+
+h1 {
+
+    color: #48345F;
+
+    font-family: "Orbitron", sans-serif;
+
+    font-size: 6rem;
+
+    margin-bottom: 0;
+
+}
+
+h2 {
+
+    text-transform: uppercase;
+
+    letter-spacing: .45rem;
+
+    font-size: 1.4rem;
+
+}
+
+h3 {
+
+    background: #48345F;
+
+    color: white;
+
+    padding: 20px;
+
+    text-align: center;
+
+    font-family: "Orbitron", sans-serif;
+
+}
+
+section {
+
+    width: 900px;
+
+    margin: auto;
+
+}
+
+p {
+
+    font-size: 1.1rem;
+
+    line-height: 1.8;
+
+}
