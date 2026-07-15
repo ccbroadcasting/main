@@ -333,8 +333,7 @@ footer {
     }
     .hero-banner {
     width: 100%;
-    max-width: 1200px;   /* adjust to taste */
-    height: auto;
+      height: auto;
     display: block;
     margin: 0 auto 2rem;
 }
