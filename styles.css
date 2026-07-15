@@ -109,14 +109,6 @@ main {
     text-transform: uppercase;
 }
 
-.modernization-banner::before {
-    content: "";
-    align-self: stretch;
-    width: 6px;
-    margin: -24px 0 -24px -30px;
-    background: var(--purple-primary);
-}
-
 .intro-copy {
     width: min(900px, calc(100% - 40px));
     margin: 0 auto;
@@ -312,12 +304,7 @@ footer {
         line-height: 1.5;
     }
 
-    .modernization-banner::before {
-        width: 4px;
-        margin: -20px 0 -20px -12px;
-    }
-
-    .modernization-banner span {
+   .modernization-banner span {
         display: none;
     }
 
